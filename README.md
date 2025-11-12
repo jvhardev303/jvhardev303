@@ -1,58 +1,47 @@
-# 👋 Olá! Eu sou João Vitor  
+# 👋 Hi there! I'm João Vitor  
 
-Sou **Engenheiro de Hardware** apaixonado por eletrônica, design de circuitos e desenvolvimento de placas de circuito impresso (PCB).  
-Aqui no GitHub compartilho **projetos open source** que desenvolvo — desde protótipos simples até sistemas embarcados completos.
-
----
-
-## ⚙️ Sobre mim
-
-- 🎓 Engenheiro de Hardware / Desenvolvedor de PCB  
-- 💡 Experiência com **Altium Designer**, **KiCad** e **EasyEDA**  
-- 🔌 Interesse em **IoT**, **automação**, **energia** e **dispositivos embarcados**  
-- 📐 Foco em design funcional, otimização de layout e boas práticas de manufatura (DFM)
+I'm a **Hardware Engineer** passionate about electronics, circuit design, and PCB development.  
+Here on GitHub, I share **open-source hardware projects** I build — from simple prototypes to complete embedded systems.
 
 ---
 
-## 🧩 Meus Projetos
+## ⚙️ About Me
 
-Alguns dos projetos open source que você pode encontrar por aqui:
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| [🔋 PowerBoard](https://github.com/username/powerboard) | Placa de alimentação modular com proteção e monitoramento | Altium, STM32 |
-| [🌐 IoT Node](https://github.com/username/iot-node) | Módulo de IoT com ESP32 e sensores integrados | KiCad, ESP-IDF |
-| [⚡ DC Motor Driver](https://github.com/username/motor-driver) | Driver de motor DC com controle PWM | Altium, C |
-
-> 💾 Todos os meus projetos são **open hardware** — você pode estudar, modificar e fabricar livremente.
+- 🎓 Hardware Engineer / PCB Designer -  Electronic and Telecommunications Engineering from the Federal University of Uberlândia.
+- 💡 Experienced with **Altium Designer**, **KiCad**, and **EasyEDA**  
+- 🔌 Interested in **IoT**, **automation**, **power electronics**, and **embedded devices**  
+- 📐 Focused on functional design, layout optimization, and manufacturability (DFM best practices)
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
-
-💻 **Design & Simulação:**  
-`Altium Designer` • `KiCad` • `LTSpice` • `Proteus`
-
-⚙️ **Prototipagem & Programação:**  
-`STM32` • `ESP32` • `Arduino` • `C/C++` • `Python`
-
-📦 **Controle de Versão & Documentação:**  
-`Git` • `Markdown` • `Notion` • `Fritzing`
+> 💾 All my projects are **open hardware** — you’re free to study, modify, and manufacture them.
 
 ---
 
-## 📫 Contato
+## 🧰 Tools & Technologies
 
-Se quiser trocar ideias, colaborar ou sugerir melhorias:
+💻 **Design & Simulation:**  
+`Altium Designer` • `LTSpice` • `Cadence Sigrity`
 
-- ✉️ **Email:** [joaovitor@email.com](mailto:joaovitor@email.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/joaovitor](https://linkedin.com/in/joaovitor)  
-- 🧠 **Hackaday.io:** [hackaday.io/joaovitor](https://hackaday.io/joaovitor)
+⚙️ **Prototyping & Programming:**  
+`STM32` • `ESP32` • `Arduino` • `C/C++`
+
+📦 **Version Control & Documentation:**  
+`Git` • `Altium 365` 
 
 ---
 
-⭐ Se algum projeto te ajudou, **considere deixar uma estrela (⭐)** — isso apoia o desenvolvimento de mais projetos open source!
+## 📫 Contact
+
+Let’s connect, collaborate, or exchange ideas:
+
+- ✉️ **Email:** [joaovitor@email.com](mailto:contapessoaljv@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/joaovitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-ramos-mitidiero-150983226/)  
 
 ---
 
-### 🛠️ “Hardware é a base do futuro digital.”
+⭐ If any of my projects helped you, **consider leaving a star (⭐)** — it helps support more open hardware work!
+
+---
+
+### 🛠️ “Hardware is the foundation of the digital future.”
